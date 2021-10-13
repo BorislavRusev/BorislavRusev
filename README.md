@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Borislav Rusev
-- 👀 I’m interested in coding (i recently started)
 - 🌱 I’m currently learning coding
 
 
